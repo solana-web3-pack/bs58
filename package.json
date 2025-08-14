@@ -1,8 +1,8 @@
 {
-  "name": "bs58",
-  "version": "6.0.0",
+  "name": "@solana-web3-pack/bs58",
+  "version": "1.0.0",
   "type": "module",
-  "description": "Base 58 encoding / decoding",
+  "description": "Base58 encoding/decoding utility for Solana web3",
   "keywords": [
     "base58",
     "bitcoin",
@@ -54,6 +54,6 @@
     "unit": "tape test/index.js"
   },
   "dependencies": {
-    "base-x": "^5.0.0"
+    "@solana-web3-pack/base-x": "^1.0.0"
   }
 }
